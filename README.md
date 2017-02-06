@@ -1,5 +1,5 @@
-# Temporal_Difference_Learning
-Code for TD Learning algorithms in Reinforcement Learning
+# Temporal Difference Learning
+Code for TD Learning algorithms in Reinforcement Learning on some benchmark MDPs
 
 Q-Learning
 SARSA
